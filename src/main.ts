@@ -11,5 +11,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <li>Eğer fırsatınız varsa sandık müşahitliği yapmayı</li>
     </ol>
     <p class="dont-forget">Unutmayınız</p>
+    <h3>Eğer web sitesinde değişiklik önermek istiyorsanız</h3>
+    <a href="https://github.com/Uzay-Sakinleri/ne-kadar-kaldi-gitmelerine" class="github-icon" target="_blank"><i class="fa-brands fa-github"></i></a>
   </div>
 `

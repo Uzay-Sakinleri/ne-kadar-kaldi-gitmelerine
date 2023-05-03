@@ -47,8 +47,13 @@ body {
 }
 
 .dont-forget{
-  margin-top: 30px;
+  margin: 30px auto 120px auto;
   font-size: 1.2rem;
+}
+
+.github-icon{
+  color: white;
+  font-size: 2.5rem;
 }
 
 @media (prefers-color-scheme: light) {
