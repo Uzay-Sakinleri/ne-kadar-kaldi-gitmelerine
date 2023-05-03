@@ -46,6 +46,10 @@ body {
   font-size: 1.3rem;
 }
 
+.needs :first-child{
+  margin-right: 35px;
+}
+
 .dont-forget{
   margin: 30px auto 120px auto;
   font-size: 1.2rem;
