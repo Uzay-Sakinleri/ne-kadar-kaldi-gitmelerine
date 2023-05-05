@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7f3337a-1a6e-44a5-a854-c79b5cf7595d/deploy-status)](https://app.netlify.com/sites/ne-kadar-kaldi-gitmelerine/deploys)
 # ne-kadar-kaldı-gitmelerine
 
 ## Turkish
